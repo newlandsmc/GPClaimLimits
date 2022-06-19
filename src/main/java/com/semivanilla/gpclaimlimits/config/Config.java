@@ -1,7 +1,7 @@
-package com.semivamilla.gpclaimlimits.config;
+package com.semivanilla.gpclaimlimits.config;
 
 import com.google.common.base.Throwables;
-import com.semivamilla.gpclaimlimits.GPClaimLimits;
+import com.semivanilla.gpclaimlimits.GPClaimLimits;
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.InvalidConfigurationException;
 import org.bukkit.configuration.file.YamlConfiguration;

@@ -4,21 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76b08e1e-3be5-4aa7-adc2-f46aae87033a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/semivamilla/gpclaimlimits/GPClaimLimits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/semivamilla/gpclaimlimits/config/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/semivamilla/gpclaimlimits/listener/GPListener.java" afterDir="false" />
+    <list default="true" id="76b08e1e-3be5-4aa7-adc2-f46aae87033a" name="Changes" comment="add GitHub actions.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/semivamilla/gpclaimlimits/GPClaimLimits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/semivanilla/gpclaimlimits/GPClaimLimits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/semivamilla/gpclaimlimits/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/semivanilla/gpclaimlimits/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/semivamilla/gpclaimlimits/listener/GPListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/semivanilla/gpclaimlimits/listener/GPListener.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,10 +43,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/len/Documents/IJ/SemiVanilla/GPClaimLimits"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.semivamilla.gpclaimlimits.config" />
     </key>
@@ -69,6 +64,21 @@
       <option name="presentableId" value="Default" />
       <updated>1655655106169</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1655656246226</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655656246226</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add GitHub actions.">
+      <created>1655656377011</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655656377011</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,5 +91,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="add GitHub actions." />
+    <option name="LAST_COMMIT_MESSAGE" value="add GitHub actions." />
   </component>
 </project>

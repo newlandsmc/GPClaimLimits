@@ -3,14 +3,23 @@ import java.io.ByteArrayOutputStream
 plugins {
     id("java")
     id("net.minecrell.plugin-yml.bukkit") version "0.5.1"
+    id("xyz.jpenilla.run-paper") version "1.0.6"
 }
 
-group = "com.semivanilla"
+group = "com.semivanilla.gpclaimlimits"
 version = "1.0-SNAPSHOT"
 
 dependencies {
     compileOnly("io.papermc.paper:paper-api:1.19-R0.1-SNAPSHOT") // Paper
     compileOnly("com.github.TechFortress:GriefPrevention:16.18")
+}
+
+tasks {
+
+    runServer {
+        minecraftVersion("1.19")
+    }
+
 }
 
 bukkit {

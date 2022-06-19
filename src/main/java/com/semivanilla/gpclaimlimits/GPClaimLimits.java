@@ -1,7 +1,7 @@
-package com.semivamilla.gpclaimlimits;
+package com.semivanilla.gpclaimlimits;
 
-import com.semivamilla.gpclaimlimits.config.Config;
-import com.semivamilla.gpclaimlimits.listener.GPListener;
+import com.semivanilla.gpclaimlimits.config.Config;
+import com.semivanilla.gpclaimlimits.listener.GPListener;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class GPClaimLimits extends JavaPlugin {
